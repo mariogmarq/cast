@@ -1,0 +1,17 @@
+{
+  "name": "cast",
+  "version": "1.0.0",
+  "description": "Stream computer audio to any audio google cast device",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mariogmarq",
+  "license": "ISC",
+  "dependencies": {
+    "chromecast-api": "^0.3.4",
+    "esm": "^3.2.25",
+    "express": "^4.17.1",
+    "fluent-ffmpeg": "^2.1.2"
+  }
+}
